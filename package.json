@@ -5,6 +5,7 @@
     "packages/*"
   ],
   "license": "MIT",
+  "version": "1.0.0",
   "description": "Metaplex JavaScript SDK",
   "keywords": [
     "nft",
